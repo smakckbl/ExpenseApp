@@ -16,7 +16,7 @@ class _MainPageState extends State<MainPage> {
       appBar: AppBar(
         foregroundColor: Colors.white,
         title: const Text("Expense App"),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.deepPurpleAccent,
         actions: [
           IconButton(
               onPressed: () {
