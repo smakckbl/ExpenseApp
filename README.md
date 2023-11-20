@@ -10,3 +10,6 @@
 ![Screenshot_1700063576](https://github.com/smakckbl/ExpenseApp/assets/148996142/72ed7ce2-1e80-4e16-b38a-9525afbc8c03)
 
 
+16.11.2023 ödevi:
+
+![Screenshot_1700504566](https://github.com/smakckbl/ExpenseApp/assets/148996142/cc5c81fe-58da-4a68-8b6e-484a3d6b8d8c)
