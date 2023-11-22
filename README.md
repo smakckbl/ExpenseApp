@@ -13,3 +13,20 @@
 16.11.2023 ödevi:
 
 ![Screenshot_1700504566](https://github.com/smakckbl/ExpenseApp/assets/148996142/cc5c81fe-58da-4a68-8b6e-484a3d6b8d8c)
+
+
+21.11.2023 ödevi:
+
+![Screenshot_1700677508](https://github.com/smakckbl/ExpenseApp/assets/148996142/743d1144-fbbd-4baf-b6d6-06bd8ee39a73)
+
+![Screenshot_1700677564](https://github.com/smakckbl/ExpenseApp/assets/148996142/d0745951-25ed-4d17-b2cd-523ebe519af3)
+
+
+
+
+
+
+
+
+
+
